@@ -4,9 +4,7 @@ A modern, responsive digital agency website concept built with HTML, CSS and Jav
 
 ## Live Demo
 
-After enabling GitHub Pages, the website will be available at:
-
-https://mkaceduet-hub.github.io/digital-agency-website/
+[View the live website](https://mkaceduet-hub.github.io/digital-agency-website/)
 
 ## Features
 
@@ -28,7 +26,7 @@ https://mkaceduet-hub.github.io/digital-agency-website/
 ## Project Files
 
 - `index.html` — website structure and content
-- `style.css` — layout, visual design and responsive styles
+- `style.css` — layout, visual design and responsive styling
 - `script.js` — mobile menu and demo form interaction
 
 ## Run Locally
